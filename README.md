@@ -1,6 +1,7 @@
 # AdditifModel
 
-This code implements an additive model to predict swimwear sales.This code implements the additif model. <br>
+This code implements an additif model to predict swimwear sales.<br>
+To use this code, download the dataset and enter the path to him in the main in the csv_path variable.<br>
 
 Here's the result:
 
