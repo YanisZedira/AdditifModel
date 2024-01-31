@@ -1,4 +1,4 @@
-# AdditiveModel
+# AdditifModel
 
 This code implements an additive model to predict swimwear sales.This code implements the additif model. <br>
 
