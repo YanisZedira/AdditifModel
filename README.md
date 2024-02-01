@@ -18,6 +18,14 @@ Here's the result:
 
 
 
+## Requirements
+
+- Python 3.x
+- pandas library (can be installed via `pip install pandas`)
+- numpy library (can be installed via `pip install numpy`)
+- sklearn library (can be installed via `pip install scikitlearn`)
+- matplotlib library (can be installed via `pip install matplotlib`)
+
 
 
 
