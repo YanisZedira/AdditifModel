@@ -23,7 +23,7 @@ Here's the result:
 - Python 3.x
 - pandas library (can be installed via `pip install pandas`)
 - numpy library (can be installed via `pip install numpy`)
-- sklearn library (can be installed via `pip install scikitlearn`)
+- sklearn library (can be installed via `pip install scikit-learn`)
 - matplotlib library (can be installed via `pip install matplotlib`)
 
 
